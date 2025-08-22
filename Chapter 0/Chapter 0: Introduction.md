@@ -23,3 +23,9 @@ The idea of this book is to give you a **solid theory** and share the **fundamen
 And as is the case with *The Standard* or any of my works, it continues to be always in a **draft mode**. As the field evolves, we try to uncover the unlikely-to-change truths about systems design theory—but even those can shift. As our learning continues to grow, so too will the next releases and versions of this work.
 
 This book will show you how to map that truth into practice, so you can build AI systems that are not only technically sound but also **aligned with purpose**.
+
+---
+
+*Build with purpose. Keep it simple. Always evolve.*  
+
+— **Hassan Habib**
