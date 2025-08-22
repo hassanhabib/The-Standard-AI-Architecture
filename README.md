@@ -9,4 +9,4 @@ Chat with us here on Discord:
 [![Discord](https://discord.com/api/guilds/934130100008538142/widget.png?style=banner2)](https://discord.gg/vdPZ7hS52X)
 
 Table of Contents
-- [0 Introduction]()
+- [0 Introduction](https://github.com/hassanhabib/The-Standard-AI-Architecture/blob/main/Chapter%200/Chapter%200%3A%20Introduction.md)
