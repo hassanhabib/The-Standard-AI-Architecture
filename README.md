@@ -11,4 +11,4 @@ Chat with us here on Discord:
 Table of Contents
 - [Chapter 0: Introduction](https://github.com/hassanhabib/The-Standard-AI-Architecture/blob/main/Chapter%200%3A%20Introduction/Chapter%200%3A%20Introduction.md)
 
-- [Chapter 1: Knowing](hhttps://github.com/hassanhabib/The-Standard-AI-Architecture/blob/main/Chapter%201%20Knowing/Chapter%201%20Knowing.md)
+- [Chapter 1: Knowing](https://github.com/hassanhabib/The-Standard-AI-Architecture/blob/main/Chapter%201%20Knowing/Chapter%201%20Knowing.md)
