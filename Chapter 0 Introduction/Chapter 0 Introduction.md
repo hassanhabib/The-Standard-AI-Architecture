@@ -18,6 +18,8 @@ These are not arbitrary labels—they are the very fundamentals of every system 
 
 AI systems are no different. Every architecture, from the simplest automation to the most advanced model, follows this same universal pattern.
 
+![Knowing, Deciding and Acting then repeat pattern.](./Images/CH0FIG0.png)
+
 The idea of this book is to give you a **solid theory** and share the **fundamentals which are unlikely to change**. It’s important to stand on solid foundations in a world where AI keeps evolving. Without a stable, unchanging theory, it becomes harder to keep up with the rapid changes in AI and the frenzy of evolution in the technologies that support it.
 
 And as is the case with *The Standard* or any of my works, it continues to be always in a **draft mode**. As the field evolves, we try to uncover the unlikely-to-change truths about systems design theory—but even those can shift. As our learning continues to grow, so too will the next releases and versions of this work.
