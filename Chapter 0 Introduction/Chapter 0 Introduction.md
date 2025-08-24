@@ -18,7 +18,9 @@ These are not arbitrary labels—they are the very fundamentals of every system 
 
 AI systems are no different. Every architecture, from the simplest automation to the most advanced model, follows this same universal pattern.
 
-![Knowing, Deciding and Acting then repeat pattern.](./Images/CH0FIG0.png)
+<p align="center">
+  <img src="./Images/CH0FIG0.png" alt="Knowing, Deciding and Acting then repeat pattern." />
+</p>
 
 The idea of this book is to give you a **solid theory** and share the **fundamentals which are unlikely to change**. It’s important to stand on solid foundations in a world where AI keeps evolving. Without a stable, unchanging theory, it becomes harder to keep up with the rapid changes in AI and the frenzy of evolution in the technologies that support it.
 
