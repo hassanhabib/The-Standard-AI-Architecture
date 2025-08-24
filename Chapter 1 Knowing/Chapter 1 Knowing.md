@@ -58,18 +58,18 @@ This cycle of **knowing → deciding → acting → knowing again** is what ever
 
 Knowledge arises from three primary sources:  
 
-1. **Direct Input**  
+0. **Direct Input**  
    Raw knowledge received from the outside world.  
    - A sound, a sight, a signal.  
    - An observation not yet connected to any previous flow.  
    - Example: Feeling a drop of rain on your skin.  
 
-2. **Reflection**  
+1. **Reflection**  
    Knowledge gained from the outcomes of previous actions.  
    - We act, and the result informs us.  
    - Example: Knowing it is cold, wearing more clothes, but still feeling cold. The new knowledge is that the first choice was insufficient, and more must be done.  
 
-3. **Revelation**  
+2. **Revelation**  
    Knowledge that surfaces into our awareness seemingly from nowhere.  
    - Intuition, inspiration, sudden insight, or dreams.  
    - While many explain this as deeper subconscious processing, it also serves as a **living proof that our known sources of knowledge are limited**.  
@@ -86,13 +86,13 @@ For knowledge to be useful, it must be organized. Structure gives us the ability
 
 Knowledge can be structured in three fundamental ways:  
 
-1. **Prioritizing** — Deciding which knowledge matters more than the rest.  
+0. **Prioritizing** — Deciding which knowledge matters more than the rest.  
    - Example: Knowing the difference between background noise and an urgent alarm.  
 
-2. **Sequencing** — Placing knowledge in order of time, cause, or dependency.  
+1. **Sequencing** — Placing knowledge in order of time, cause, or dependency.  
    - Example: Understanding that clouds form before it rains.  
 
-3. **Contextualizing** — Framing knowledge relative to place, situation, or perspective.  
+2. **Contextualizing** — Framing knowledge relative to place, situation, or perspective.  
    - Example: Knowing that “it’s hot” means something very different in the desert than in the Arctic.  
 
 When knowledge is prioritized, sequenced, and contextualized, it becomes strong enough to support **decisions** and lead to effective **actions**.
@@ -101,44 +101,22 @@ When knowledge is prioritized, sequenced, and contextualized, it becomes strong 
 
 ## 1.5 Connecting Knowledge  
 
-Individual pieces of knowledge gain strength when they are **linked together**.  
+Individual pieces of knowledge gain strength when they are **linked together**. But not all connections are the same. Knowledge can be connected in three distinct ways:  
 
-For example:  
-- The knowledge of *rain* connects with the knowledge of *carrying an umbrella*.  
-- The knowledge of *fire* connects with the knowledge of *heat and danger*.  
-- The knowledge of *words* connects with the knowledge of *language and meaning*.  
+0. **Natural Connection**  
+   - Some knowledge is naturally and obviously linked.  
+   - Example: The knowledge of *rain* connects directly with the knowledge of *carrying an umbrella*.  
 
-Integration of knowledge creates **systems of understanding**. These systems can grow into sciences, cultures, or technologies. At every level, connection multiplies the power of what is known.  
+1. **Manual Connection**  
+   - Sometimes connections are forced or invented by choice, culture, or creativity.  
+   - Example: Linking *tea* to a private joke about a printer. These connections are not natural, but they hold meaning within a specific context or group.  
+
+2. **Contextual Connection**  
+   - Knowledge from a previous iteration can combine with new input to form a stronger or deeper understanding.  
+   - Example: On the first run, we receive a prompt about *cars*. On the next run, we receive a prompt about *oil*. Now, a contextual connection is formed between *cars* and *oil* because of their relationship across iterations.  
+
+Integration of knowledge through these three modes creates **systems of understanding**. These systems can grow into sciences, cultures, or technologies. At every level, connection multiplies the power of what is known.  
 
 ---
 
 Knowledge, therefore, is not just information—it is **perception sourced, structured, and connected into meaning**. Only with such knowledge can decisions and actions arise.
-
-## 1.6 Knowing in AI Systems  
-
-In systems design, knowledge is expressed as **information exchanged between two systems**. Just as humans source, structure, and connect knowledge, machines do the same in their own ways.  
-
-Knowledge in AI systems can come from three main forms of exchange:  
-
-1. **User Interaction**  
-   - Example: A web interface receiving input from a user, then sending it to a backend.  
-   - This is the most direct form of knowledge sourcing: external input entering the system.  
-
-2. **System-to-System Communication**  
-   - Example: API calls triggered by other services, microservices passing messages, or data pipelines feeding a model.  
-   - Here, knowledge flows through structured exchanges — rules, protocols, and formats ensure the knowledge is not just raw but organized.  
-
-3. **Time as Knowledge**  
-   - Example: A cron job executing at midnight, or a time-triggered system refreshing data.  
-   - Time itself is knowledge: the awareness of “when” something happens. In time-driven systems, knowledge of the clock becomes the trigger for action.  
-
-In all these cases, the principle holds: **knowledge is the trigger.**  
-No system can decide or act until it has first received some form of knowledge — whether from a user, another system, or even the passage of time itself.  
-
-Just as in the natural world, knowledge in AI systems is:  
-- **Sourced** (collected as inputs, signals, or triggers).  
-- **Structured** (formatted, validated, and stored in ways the system can use).  
-- **Connected** (linked to prior states, logs, or contexts to give meaning).  
-
-This pattern — sourcing, structuring, connecting — forms the foundation of AI architecture. Without it, decisions and actions cannot exist.
-
