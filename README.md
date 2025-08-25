@@ -10,5 +10,4 @@ Chat with us here on Discord:
 
 Table of Contents
 - [Chapter 0: Introduction](./Chapter%200%20Introduction/Chapter%200%20Introduction.md)
-
 - [Chapter 1: Knowing](./Chapter%201%20Knowing/Chapter%201%20Knowing.md)
